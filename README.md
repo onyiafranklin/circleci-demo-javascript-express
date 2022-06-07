@@ -22,7 +22,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 
 2. `npm run bs` - bundles the code and starts the production server
 
-3. `npm run test` - start the test runner
+3. `npm run test` - start th
 
 4. `npm run watch:test` - start the test runner with watch mode
 
